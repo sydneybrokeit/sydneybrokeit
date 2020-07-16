@@ -27,14 +27,14 @@ from a desktop
 ElasticSearch
 * [dangerBongo](https://github.com/hmschreck/dangerBongo) - a golang-based application to control the fan and color
 on Corsair AIO coolers
-    ![example of the AIO cooler in use](dangerBongo.png)
+    ![example of the AIO cooler in use](https://github.com/hmschreck/hmschreck/blob/master/dangerBongo.png?raw=true)
 * [difmScript](https://github.com/hmschreck/difmScript) - a Python application for interacting with the di.fim
 (digitally imported radio) API to have it print out nicely in `tmux`
 * [XIV_Census](https://github.com/hmschreck/XIV_Census) - a set of R scripts to parse the Final Fantasy XIV Lodestone
 and generate graphs about player character demographics, achievements, and job levels.
-    ![Graph of each server, broken down by gender](ServerGender.png)
-    ![Graph of each server, broken down by race](ServerRace.png)
-    ![Graph of Monk secondary and tertiary class levels](MonkCrossClasses.png)
+    ![Graph of each server, broken down by gender](https://github.com/hmschreck/hmschreck/blob/master/ServerGender.png?raw=true)
+    ![Graph of each server, broken down by race](https://github.com/hmschreck/hmschreck/blob/master/ServerRace.png?raw=true)
+    ![Graph of Monk secondary and tertiary class levels](https://github.com/hmschreck/hmschreck/blob/master/MonkCrossClasses.png?raw=true)
 * VR Theremin - I made a toy electrotheremin (electronic instrument based on capacitance) for VR, using Unity and C#.
 
 [![YouTube video of the VR Theremin](https://img.youtube.com/vi/NrdL_53nhqQ/0.jpg)](https://www.youtube.com/watch?v=NrdL_53nhqQ)
@@ -48,4 +48,6 @@ and generate graphs about player character demographics, achievements, and job l
 
 # Other hobbies
 * PC Hardware
+* Electronics
+* Math/Science
 * Tabletop RPGs (Pathfinder and Starfinder especially)
